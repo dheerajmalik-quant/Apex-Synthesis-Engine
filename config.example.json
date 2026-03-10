@@ -1,0 +1,23 @@
+{
+    "data_path": "./data/",
+    "capital": 100000.0,
+    "risk_per_trade_pct": 0.01,
+    "friction_per_lot": 50.0,
+    "atr_trails": [1.0, 2.0],
+    "step1_activation_atr": 0.0,
+    "step2_activation_atr": 0.0,
+    "step2_trail_gap_atr": 0.0,
+    "adx_period": 0,
+    "adx_chop_threshold": 0,
+    "kama_n": 0,
+    "kama_fast": 0,
+    "kama_slow": 0,
+    "atr_span": 0,
+    "ema_trend": 0,
+    "ema_macro": 0,
+    "base_window": 0,
+    "ichimoku_window": 0,
+    "ichimoku_shift": 0,
+    "keltner_mult": 0.0,
+    "exit_hour": 15
+}

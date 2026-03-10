@@ -1,0 +1,11 @@
+# Ignore configuration files with secret parameters
+config.json
+
+# Ignore the data folder and all parquet files
+historical data/
+*.parquet
+
+# Ignore Python cache and local CSV output
+__pycache__/
+*.pyc
+V1.1_Apex_Synthesis.csv
