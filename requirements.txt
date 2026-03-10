@@ -1,0 +1,4 @@
+polars[rtcompat]
+numpy
+pandas
+pyarrow
