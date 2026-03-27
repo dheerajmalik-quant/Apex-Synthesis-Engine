@@ -8,4 +8,6 @@ historical data/
 # Ignore Python cache and local CSV output
 __pycache__/
 *.pyc
-V1.1_Apex_Synthesis.csv
+
+# Ignore all V1+ Engine Outputs (Summaries & Ledgers)
+V*_Apex_*.csv

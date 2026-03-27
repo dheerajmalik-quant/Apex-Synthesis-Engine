@@ -3,6 +3,7 @@
     "capital": 100000.0,
     "risk_per_trade_pct": 0.01,
     "friction_per_lot": 50.0,
+    "slippage_points": 0.0,
     "atr_trails": [1.0, 2.0],
     "step1_activation_atr": 0.0,
     "step2_activation_atr": 0.0,
